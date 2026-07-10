@@ -2,7 +2,7 @@
 
 The repository is intended for demonstrating the applications of the following three deep learning methods on complex, multi-variable climate dataset:
 
-1- Long short-term memory (LTSM) 
+1- Long short-term memory (LSTM) 
 
 Hochreiter, S., & Schmidhuber, J. (1997). Long Short-Term Memory. Neural Computation, 9(8), 1735-1780
 
